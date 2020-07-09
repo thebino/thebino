@@ -1,16 +1,18 @@
-### Hi there 👋
+# Stürmer Benjamin
+I'm a self-taught Software Engineer and Technical Lead at [Quartett mobile](https://quartett-mobile.de).
+I also offer my Professional Photography skills at my own Company.
+Previously worked at [Siemens](https://buildingtechnologies.siemens.com) on Fire Safety and Security and at [Dachser logistics](https://www.dachser.com).
 
-<!--
-**thebino/thebino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My values
+👑 Loyalty<br />
+🌱 Resilience<br />
+🧠 Self-Confidence<br />
+🤝 Responsible<br />
+🐝 Helpfulness<br />
 
-Here are some ideas to get you started:
+## My passion
+I love what I do for a living, thats why work never feels like work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- Twitter: https://twitter.com/benjaminstrmer
+- Personal site: https://stuermer-benjamin.de/
