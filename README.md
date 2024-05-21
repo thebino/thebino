@@ -9,10 +9,3 @@ Previously worked at [Siemens](https://buildingtechnologies.siemens.com) on Fire
 🧠 Self-Confidence<br />
 🤝 Responsible<br />
 🐝 Helpfulness<br />
-
-## My passion
-I love what I do for a living, thats why work never feels like work.
-
-## Get in touch
-- Twitter: https://twitter.com/benjaminstrmer
-- Personal site: https://stuermer-benjamin.de/
